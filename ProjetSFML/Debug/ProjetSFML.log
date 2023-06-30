@@ -1,0 +1,19 @@
+﻿  Decors.c
+W:\C\MyProject\EDITEUR DE MAP T3D\ProjetSFML\Utils.h(6,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.h' : No such file or directory
+  DisplayState.c
+W:\C\MyProject\EDITEUR DE MAP T3D\ProjetSFML\Utils.h(6,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.h' : No such file or directory
+  EditorState.c
+W:\C\MyProject\EDITEUR DE MAP T3D\ProjetSFML\Utils.h(6,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.h' : No such file or directory
+  Map.c
+W:\C\MyProject\EDITEUR DE MAP T3D\ProjetSFML\Utils.h(6,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.h' : No such file or directory
+  mapt3D.c
+W:\C\MyProject\EDITEUR DE MAP T3D\ProjetSFML\mapt3D.h(10,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.h' : No such file or directory
+  Placement.c
+W:\C\MyProject\EDITEUR DE MAP T3D\ProjetSFML\Utils.h(6,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.h' : No such file or directory
+  ProjetSFML.c
+W:\C\MyProject\EDITEUR DE MAP T3D\ProjetSFML\Utils.h(6,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.h' : No such file or directory
+  SelectionState.c
+W:\C\MyProject\EDITEUR DE MAP T3D\ProjetSFML\Utils.h(6,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.h' : No such file or directory
+  Utils.c
+W:\C\MyProject\EDITEUR DE MAP T3D\ProjetSFML\Utils.h(6,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.h' : No such file or directory
+  Génération de code en cours...

@@ -462,10 +462,6 @@ void UpdateMap(struct GAMEDATA* GameData)
 
 		if (event.type == sfEvtMouseButtonReleased)
 		{
-
-
-
-
 			//////// STATE 0///////////
 			if (GameData->selectOrBuild == 0)
 			{
