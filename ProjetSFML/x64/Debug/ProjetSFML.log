@@ -1,0 +1,32 @@
+﻿  Decors.c
+  DisplayState.c
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\DisplayState.c(15,23): warning C4013: 'SelectionStateDisplay' non défini(e) ; extern retournant int pris par défaut
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\DisplayState.c(31,11): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\DisplayState.c(32,11): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+  EditorState.c
+  Map.c
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\Map.c(474,26): warning C4013: 'SelectionStateUpdate' non défini(e) ; extern retournant int pris par défaut
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\Map.c(518,60): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\Map.c(539,66): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\Map.c(555,72): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\Map.c(579,160): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+  mapt3D.c
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\mapt3D.c(97,49): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Placement.c
+  ProjetSFML.c
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\ProjetSFML.c(19,20): warning C4013: 'SelectionStateInit' non défini(e) ; extern retournant int pris par défaut
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\ProjetSFML.c(20,14): warning C4013: 'PutDataInMap' non défini(e) ; extern retournant int pris par défaut
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\ProjetSFML.c(21,11): warning C4013: 'INITMAPED' non défini(e) ; extern retournant int pris par défaut
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\ProjetSFML.c(37,12): warning C4013: 'UpdateMap' non défini(e) ; extern retournant int pris par défaut
+  SelectionState.c
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\SelectionState.c(226,64): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\SelectionState.c(232,64): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\SelectionState.c(239,64): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\SelectionState.c(240,158): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+  Utils.c
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\Utils.c(10,1): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\Utils.c(15,1): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\Utils.c(24,1): warning C4244: 'initialisation' : conversion de 'float' en 'sfUint8', perte possible de données
+D:\SERIOUS TEST\EDITEUR DE MAP T3D\ProjetSFML\Utils.c(51,1): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours...
+  ProjetSFML.vcxproj -> D:\SERIOUS TEST\EDITEUR DE MAP T3D\x64\Debug\ProjetSFML.exe

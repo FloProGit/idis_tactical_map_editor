@@ -1,0 +1,68 @@
+#ifndef __PLACEMENT_H__
+#define __PLACEMENT_H__
+
+
+
+
+///////////////////////////////////////////////////////////
+///------------------------Includes---------------------///
+///////////////////////////////////////////////////////////
+
+#include"Utils.h"
+
+
+//inclure uniquement les INCLUDES NESSAICAIRE DANS LE .C et H.
+// si par exemple on a juste besoins de faire des calcul alors 
+
+///////////////////////////////////////////////////////////
+///------------------------Defines----------------------///
+///////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////
+///------------------------Enums-----------------------///
+///////////////////////////////////////////////////////////
+
+
+
+
+
+///////////////////////////////////////////////////////////
+///------------------------Structures-------------------///
+///////////////////////////////////////////////////////////
+
+
+
+
+
+///////////////////////////////////////////////////////////
+///------------------------PROTOTYPES-------------------///
+///////////////////////////////////////////////////////////
+
+
+
+// void PROTOTYPE DE FONCTION(ARG); 
+
+////UTILS////
+
+// mettre ici les fonctions qui sont utils dans le Fichier EXEMPLE.c
+
+////INIT////
+void loadSpritePlacement(struct GAMEDATA* GameData);
+///ici Mettre les Fonction Uniquement executer a l'init ou a un certaint moment
+
+
+////UPDATE////
+
+
+// mettre ici les fonctions qui sont utils en update par exemple un PROJECT.c
+
+
+#endif // !__PLACEMENT_H__
+
+

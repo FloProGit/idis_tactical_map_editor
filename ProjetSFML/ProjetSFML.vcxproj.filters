@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GameData">
+      <UniqueIdentifier>{50b84954-2863-4af4-8da7-ac7a70cc3a80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{35c220b2-5731-4a13-b8f2-0fc7d0502bde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Editor">
+      <UniqueIdentifier>{93cefc98-b086-4afc-a8e9-a16ed1bd069d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Display">
+      <UniqueIdentifier>{59b556b9-9256-4001-839e-5ad1e05245f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Selection">
+      <UniqueIdentifier>{1728498d-9194-4fd2-8e26-45e954948fd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MAP">
+      <UniqueIdentifier>{f61218af-83e8-4574-9d1a-e1d9592e3428}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="DECOR">
+      <UniqueIdentifier>{245928d4-ba2e-41da-ae3e-58b00dff106b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLACEMENT">
+      <UniqueIdentifier>{6a5c760c-1c4b-4f9c-8c59-b8506cf2fbda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MAPT3D">
+      <UniqueIdentifier>{861ad77c-d0a1-4520-a29a-c4158012cce9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPRITEMANAGER">
+      <UniqueIdentifier>{650c5e17-b5ff-4ac5-bd7a-bd3ced12c5fb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ProjetSFML.c">
+      <Filter>Fichiers d%27en-tête\Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.c">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="EditorState.c">
+      <Filter>Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayState.c">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionState.c">
+      <Filter>Selection</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.c">
+      <Filter>MAP</Filter>
+    </ClCompile>
+    <ClCompile Include="Decors.c">
+      <Filter>DECOR</Filter>
+    </ClCompile>
+    <ClCompile Include="Placement.c">
+      <Filter>PLACEMENT</Filter>
+    </ClCompile>
+    <ClCompile Include="mapt3D.c">
+      <Filter>MAPT3D</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameData.h">
+      <Filter>GameData</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="EditorState.h">
+      <Filter>Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayState.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectionState.h">
+      <Filter>Selection</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>MAP</Filter>
+    </ClInclude>
+    <ClInclude Include="dirent.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="_mingw.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Decors.h">
+      <Filter>DECOR</Filter>
+    </ClInclude>
+    <ClInclude Include="placement.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="mapt3D.h">
+      <Filter>MAPT3D</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
